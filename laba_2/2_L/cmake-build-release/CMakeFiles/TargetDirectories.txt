@@ -1,3 +1,0 @@
-C:/Users/uprtk/OneDrive/Рабочий стол/Лабы/АиП/laba_2/2_L/cmake-build-release/CMakeFiles/AiP.dir
-C:/Users/uprtk/OneDrive/Рабочий стол/Лабы/АиП/laba_2/2_L/cmake-build-release/CMakeFiles/edit_cache.dir
-C:/Users/uprtk/OneDrive/Рабочий стол/Лабы/АиП/laba_2/2_L/cmake-build-release/CMakeFiles/rebuild_cache.dir
