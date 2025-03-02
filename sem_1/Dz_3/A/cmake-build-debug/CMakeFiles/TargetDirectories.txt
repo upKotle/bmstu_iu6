@@ -1,0 +1,3 @@
+D:/Лабы/АиП/Dz_3/A/cmake-build-debug/CMakeFiles/A.dir
+D:/Лабы/АиП/Dz_3/A/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Лабы/АиП/Dz_3/A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
