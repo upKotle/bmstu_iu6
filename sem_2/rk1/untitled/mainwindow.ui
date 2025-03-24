@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Управление огородом</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QGroupBox" name="groupBox">
+        <property name="title">
+         <string>Парники</string>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_2">
+         <item>
+          <widget class="QListWidget" name="greenhouseList">
+           <property name="selectionMode">
+            <enum>QAbstractItemView::SingleSelection</enum>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="addGreenhouseBtn">
+           <property name="text">
+            <string>Добавить парник</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <widget class="QGroupBox" name="groupBox_2">
+        <property name="title">
+         <string>Грядки</string>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_3">
+         <item>
+          <widget class="QListWidget" name="bedList"/>
+         </item>
+         <item>
+          <widget class="QPushButton" name="addBedBtn">
+           <property name="text">
+            <string>Добавить грядку</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <widget class="QPushButton" name="searchBtn">
+      <property name="text">
+       <string>Поиск культуры</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>600</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <tabstops>
+  <tabstop>greenhouseList</tabstop>
+  <tabstop>addGreenhouseBtn</tabstop>
+  <tabstop>bedList</tabstop>
+  <tabstop>addBedBtn</tabstop>
+  <tabstop>searchBtn</tabstop>
+ </tabstops>
+</ui>
