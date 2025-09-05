@@ -1,0 +1,14 @@
+/home/upkotle/lw_2sem/rk2/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/home/upkotle/lw_2sem/rk2/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/home/upkotle/lw_2sem/rk2/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/home/upkotle/lw_2sem/rk2/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/home/upkotle/lw_2sem/rk2/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/home/upkotle/lw_2sem/rk2/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/upkotle/lw_2sem/rk2/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/upkotle/lw_2sem/rk2/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/upkotle/lw_2sem/rk2/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/upkotle/lw_2sem/rk2/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/home/upkotle/lw_2sem/rk2/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/upkotle/lw_2sem/rk2/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/home/upkotle/lw_2sem/rk2/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/home/upkotle/lw_2sem/rk2/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
